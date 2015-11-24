@@ -20,7 +20,7 @@
   "ignore": [],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.0",
-    "paper-dialog-behavior": "git://github.com/Akryum/paper-dialog-behavior.git",
+    "paper-dialog-behavior": "Akryum/paper-dialog-behavior#5d7305226b63277177cb0a90b1261fc266b34749",
     "paper-styles": "PolymerElements/paper-styles#^1.0.0",
     "neon-animation": "PolymerElements/neon-animation#^1.0.0"
   },
